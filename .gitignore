@@ -27,10 +27,10 @@ coverage
 *.sln
 *.sw?
 
-.env*
 !.env.example
 
 *.tsbuildinfo
 
 *storybook.log
 storybook-static
+config.bat

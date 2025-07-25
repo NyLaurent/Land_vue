@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, watch } from 'vue'
-import { ArrowRightLeft, TrendingUp, Clock, CheckCircle } from 'lucide-vue-next'
+import { ArrowRightLeft, TrendingUp, Clock, CheckCircle, Activity } from 'lucide-vue-next'
 import { Button } from '@/components/ui/button'
 import {
   Dialog,
@@ -14,10 +14,20 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import TransferForm from '@/components/transfers/TransferForm.vue'
 import TransferList from '@/components/transfers/TransferList.vue'
 import { useI18n } from 'vue-i18n'
+import { useTransferStore } from '@/stores/transferStore'
 
 const isTransferDialogOpen = ref(false)
 const formRef = ref<InstanceType<typeof TransferForm> | null>(null)
 const { t } = useI18n()
+
+// Use the transfer store to get transfer data
+const transferStore = useTransferStore()
+
+// Use the store's computed properties directly
+const { transferCount, pendingTransfers, completedTransfers } = transferStore
+
+// Load transfers when component mounts
+transferStore.fetchTransfers()
 
 const handleFormSuccess = () => {
   isTransferDialogOpen.value = false
