@@ -25,7 +25,10 @@
     "delete": "Siba",
     "back": "Subira",
     "next": "Komeza",
-    "close": "Funga"
+    "close": "Funga",
+    "start_drawing": "Tangira Gushushanya",
+    "stop_drawing": "Hagarika Gushushanya",
+    "clear_drawing": "Siba Igishushanyo"
   },
   "titles": {
     "my_reg": "Kwandikisha Kwanjye",
@@ -92,7 +95,9 @@
     "new_transfer": "Kwimura Gushya",
     "pending_approval": "Gutegereza ko byemererwa",
     "under_review": "Birasuzumwa",
-    "successfully_transferred": "Byimuwe neza"
+    "successfully_transferred": "Byimuwe neza",
+    "total_parcels": "Ibice by'ubutaka byose",
+    "zoom_level": "Urwego rw'ubwiyongere"
   },
   "tools": {
     "measure": "Igikoresho cyo Gupima",
