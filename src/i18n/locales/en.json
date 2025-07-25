@@ -25,7 +25,10 @@
     "delete": "Delete",
     "back": "Back",
     "next": "Next",
-    "close": "Close"
+    "close": "Close",
+    "start_drawing": "Start Drawing",
+    "stop_drawing": "Stop Drawing",
+    "clear_drawing": "Clear Drawing"
   },
   "titles": {
     "my_reg": "My Registrations",
@@ -92,7 +95,9 @@
     "new_transfer": "New Transfer",
     "pending_approval": "Awaiting approval",
     "under_review": "Under review", 
-    "successfully_transferred": "Successfully transferred"
+    "successfully_transferred": "Successfully transferred",
+    "total_parcels": "Total Parcels",
+    "zoom_level": "Zoom Level"
   },
   "tools": {
     "measure": "Measure Tool",
