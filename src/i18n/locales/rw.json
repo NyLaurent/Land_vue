@@ -1,0 +1,127 @@
+{
+  "locale": {
+    "en": "Icyongereza",
+    "rw": "Ikinyarwanda"
+  },
+  "brand": {
+    "name": "Gucunga Ubutaka",
+    "tagline": "Urubuga rwo Kwandikisha Ubutaka",
+    "footer": "Rushyigikiwe na blockchain tekinoroji"
+  },
+  "nav": {
+    "map_view": "Ikarita",
+    "my_land": "Ubutaka Bwanjye",
+    "transfers": "Kwimura"
+  },
+  "buttons": {
+    "register_land": "Andika Ubutaka Bushya",
+    "start_transfer": "Tangira Kwimura",
+    "explore_map": "Kora ubushakashatsi ku Karita",
+    "view_stats": "Reba Imibare",
+    "submit": "Ohereza",
+    "cancel": "Kuraho",
+    "save": "Bika",
+    "edit": "Hindura",
+    "delete": "Siba",
+    "back": "Subira",
+    "next": "Komeza",
+    "close": "Funga"
+  },
+  "titles": {
+    "my_reg": "Kwandikisha Kwanjye",
+    "land_transfers": "Kwimura Ubutaka",
+    "interactive_map": "Ikarita y'Imitungo",
+    "register_new": "Andika Umutungo Mushya",
+    "initiate_transfer": "Tangira Kwimura Umutungo",
+    "your_properties": "Imitungo Yawe",
+    "transfer_history": "Amateka y'Kwimura",
+    "quick_actions": "Ibikorwa Byihuse",
+    "map_tools": "Ibikoresho by'Ikarita",
+    "portfolio_stats": "Imibare y'Imitungo"
+  },
+  "descriptions": {
+    "manage_portfolio": "Kora imitungo yawe hamwe na Gucunga Ubutaka",
+    "blockchain_security": "Kora kwimura imitungo hamwe n'umutekano wa blockchain",
+    "explore_properties": "Kora ubushakashatsi ku mitungo yanditswe n'imitungo",
+    "register_description": "Uzuza ifishi hepfo kugira ngo wandike ubutaka bwawe kuri urubuga rwa Gucunga Ubutaka",
+    "transfer_description": "Uzuza inzira iteguye yo kwimura kuri urubuga rwa Gucunga Ubutaka",
+    "add_property": "Ongeramo umutungo mushya ku mitungo yawe",
+    "explore_map_desc": "Kora ubushakashatsi ku mitungo kuri ikarita ikorana",
+    "view_stats_desc": "Reba imibare y'imitungo yawe",
+    "track_properties": "Kora no gukurikirana imitungo yawe yose yanditswe",
+    "track_transfers": "Kora gukurikirana ibikorwa byawe byose byo kwimura imitungo"
+  },
+  "forms": {
+    "labels": {
+      "parcel_id": "Indangamuntu y'Ubutaka",
+      "land_size": "Ubunini bw'Ubutaka (metero za kare)",
+      "ownership_type": "Ubwoko bw'Ubutaka",
+      "ownership_proof": "Inyandiko y'Uko Ufite Ubutaka",
+      "required": "Bisabwa"
+    },
+    "placeholders": {
+      "parcel_id": "urugero: 12345 (nomero)",
+      "land_size": "urugero: 1000 (bigomba kuba birenze 0)",
+      "ownership_type": "urugero: Ubutaka buboneye, Ubutaka bukodewe, n'ibindi"
+    },
+    "file_upload": {
+      "title": "Inyandiko y'Uko Ufite Ubutaka",
+      "description": "Ohereza inyandiko z'uko ufite umutungo",
+      "accepted_formats": "Impapuro zemererwa: PDF, JPG, JPEG, PNG (ntirengehe 10MB)",
+      "drag_drop": "Kanda kugira ngo wohereze cyangwa ukuremo hanyuma urite"
+    },
+    "validation": {
+      "required_field": "Iki kibanza gisabwa",
+      "invalid_format": "Imiterere itemewe",
+      "file_too_large": "Ubunini bw'ifayili bugomba kuba munsi ya 10MB",
+      "invalid_file_type": "Ifayili igomba kuba PDF, JPG, JPEG, cyangwa PNG"
+    }
+  },
+  "status": {
+    "pending": "Gituye",
+    "in_progress": "Kigenda",
+    "completed": "Birangiye",
+    "cancelled": "Birahagaritswe",
+    "approved": "Byemewe",
+    "rejected": "Bihakanywe",
+    "loading": "Gipakira",
+    "success": "Byakunze",
+    "error": "Ikosa"
+  },
+  "stats": {
+    "new_transfer": "Kwimura Gushya",
+    "pending_approval": "Gutegereza ko byemererwa",
+    "under_review": "Birasuzumwa",
+    "successfully_transferred": "Byimuwe neza"
+  },
+  "tools": {
+    "measure": "Igikoresho cyo Gupima",
+    "measure_desc": "Kanda kugira ngo upime intera",
+    "location": "Ahantu",
+    "location_desc": "Shakisha aho uri",
+    "layers": "Ibice",
+    "layers_desc": "Guhindura ibice by'ikarita",
+    "search": "Gushaka",
+    "search_desc": "Shakisha imitungo"
+  },
+  "user_menu": {
+    "account_settings": "Amategeko y'Konti",
+    "billing": "Kwishyura",
+    "notifications": "Ubutumwa",
+    "upgrade_pro": "Kwidukiza kuri Pro",
+    "sign_out": "Gusohoka"
+  },
+  "messages": {
+    "registering": "Kwandika Umutungo...",
+    "register_success": "Umutungo wanditswe neza",
+    "transfer_success": "Kwimura kwatangijwe neza",
+    "loading_data": "Gupakira amakuru...",
+    "no_data": "Nta makuru ahari",
+    "error_occurred": "Ikosa ryabaye",
+    "try_again": "Nyamuneka gerageza nanone"
+  },
+  "footer": {
+    "copyright": "© 2024 Gucunga Ubutaka.",
+    "powered_by": "Rushyigikiwe na blockchain tekinoroji."
+  }
+} 

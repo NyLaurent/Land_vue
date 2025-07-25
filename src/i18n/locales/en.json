@@ -1,0 +1,127 @@
+{
+  "locale": {
+    "en": "English",
+    "rw": "Kinyarwanda"
+  },
+  "brand": {
+    "name": "Land Management",
+    "tagline": "Land Registry Platform",
+    "footer": "Powered by blockchain technology"
+  },
+  "nav": {
+    "map_view": "Map",
+    "my_land": "My Land",
+    "transfers": "Transfers"
+  },
+  "buttons": {
+    "register_land": "Register New Land",
+    "start_transfer": "Start Transfer",
+    "explore_map": "Explore Map",
+    "view_stats": "View Stats",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "close": "Close"
+  },
+  "titles": {
+    "my_reg": "My Registrations",
+    "land_transfers": "Land Transfers",
+    "interactive_map": "Interactive Property Map",
+    "register_new": "Register New Property",
+    "initiate_transfer": "Initiate Property Transfer",
+    "your_properties": "Your Properties",
+    "transfer_history": "Transfer History",
+    "quick_actions": "Quick Actions",
+    "map_tools": "Map Tools",
+    "portfolio_stats": "Portfolio Stats"
+  },
+  "descriptions": {
+    "manage_portfolio": "Manage your property portfolio with Land Management",
+    "blockchain_security": "Manage property transfers with blockchain security",
+    "explore_properties": "Explore registered properties and land parcels",
+    "register_description": "Complete the form below to register your land on the Land Management platform",
+    "transfer_description": "Complete the secure transfer process on the Land Management platform",
+    "add_property": "Add a new property to your portfolio",
+    "explore_map_desc": "Explore properties on interactive map",
+    "view_stats_desc": "View your property statistics",
+    "track_properties": "Manage and track all your registered properties",
+    "track_transfers": "Track all your property transfer activities"
+  },
+  "forms": {
+    "labels": {
+      "parcel_id": "Land Parcel ID",
+      "land_size": "Land Size (square meters)",
+      "ownership_type": "Ownership Type",
+      "ownership_proof": "Ownership Proof Document",
+      "required": "Required"
+    },
+    "placeholders": {
+      "parcel_id": "e.g., 12345 (numeric ID)",
+      "land_size": "e.g., 1000 (must be greater than 0)",
+      "ownership_type": "e.g., Freehold, Leasehold, etc."
+    },
+    "file_upload": {
+      "title": "Ownership Proof Document",
+      "description": "Upload your property ownership documentation",
+      "accepted_formats": "Accepted formats: PDF, JPG, JPEG, PNG (max 10MB)",
+      "drag_drop": "Click to upload or drag and drop"
+    },
+    "validation": {
+      "required_field": "This field is required",
+      "invalid_format": "Invalid format",
+      "file_too_large": "File size must be less than 10MB",
+      "invalid_file_type": "File must be PDF, JPG, JPEG, or PNG format"
+    }
+  },
+  "status": {
+    "pending": "Pending",
+    "in_progress": "In Progress",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "loading": "Loading",
+    "success": "Success",
+    "error": "Error"
+  },
+  "stats": {
+    "new_transfer": "New Transfer",
+    "pending_approval": "Awaiting approval",
+    "under_review": "Under review", 
+    "successfully_transferred": "Successfully transferred"
+  },
+  "tools": {
+    "measure": "Measure Tool",
+    "measure_desc": "Click to measure distances",
+    "location": "Location",
+    "location_desc": "Find your position",
+    "layers": "Layers",
+    "layers_desc": "Toggle map layers",
+    "search": "Search",
+    "search_desc": "Find properties"
+  },
+  "user_menu": {
+    "account_settings": "Account Settings",
+    "billing": "Billing",
+    "notifications": "Notifications",
+    "upgrade_pro": "Upgrade to Pro",
+    "sign_out": "Sign Out"
+  },
+  "messages": {
+    "registering": "Registering Property...",
+    "register_success": "Property registered successfully",
+    "transfer_success": "Transfer initiated successfully",
+    "loading_data": "Loading data...",
+    "no_data": "No data available",
+    "error_occurred": "An error occurred",
+    "try_again": "Please try again"
+  },
+  "footer": {
+    "copyright": "© 2024 Land Management.",
+    "powered_by": "Powered by blockchain technology."
+  }
+}
